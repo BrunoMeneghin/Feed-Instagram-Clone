@@ -9,10 +9,10 @@ pod install
 start server ~ command line: yarn json-server server.json -d 1000 -w 
 
 # Credits
-Tutorial at: https://www.youtube.com/watch?v=2nXsLpUCO20
+Tutorial at: https://www.youtube.com/watch?v=2nXsLpUCO20 by Diego Fernandes
 
-https://rocketseat.com.br 
+checkout in: https://rocketseat.com.br 
 
-by Diego Fernandes
+
 
 
