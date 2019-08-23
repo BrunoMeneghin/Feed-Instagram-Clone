@@ -3,7 +3,7 @@
 yarn install
 
 # Podfile
-pod intall
+pod install
 
 # Server
 start server ~ command line: yarn json-server server.json -d 1000 -w 
